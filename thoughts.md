@@ -1,4 +1,5 @@
 + Practice coding every day
+  + **every day** 
 + Adopt a Growth Mindset
 + Google more effectively
 + Learn by making mistakes
